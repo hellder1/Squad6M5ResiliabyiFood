@@ -74,7 +74,7 @@ exporta em csv tb_final
 Esse projeto foi desenvolvido por:
 
 - Alice Campos 
-- Daniel
+- Dani
 - Helder
   
 ## Contato
