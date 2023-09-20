@@ -69,6 +69,13 @@ exporta em csv tb_final
 
 ## Insights
   #### <font color = bluelight>
+  > A série histórica das criptomoedas revela um cenário de extrema volatilidade e valorização ao longo dos anos, com picos de alta em 2017, seguidos de quedas acentuadas em 2018 e 2019. No entanto, o grande destaque desse mercado nos últimos anos foi o aumento exponencial em 2020 e 2021.
+
+> Em meio a essa montanha-russa de preços, surgiu uma questão importante relacionada ao meio ambiente. A mineração de criptomoedas, em especial o Bitcoin, tem sido associada a um alto consumo de energia elétrica. Essa preocupação ambiental ganhou destaque à medida que as criptomoedas se tornaram mais populares.
+
+> Além disso, as oscilações nos preços das criptomoedas muitas vezes são influenciadas por eventos externos, como tweets e comentários de figuras públicas notáveis, como Elon Musk. Suas declarações podem levar a mudanças drásticas nos valores das moedas digitais.
+
+> Em resumo, a série histórica das criptomoedas é marcada por extremos de valorização e volatilidade, com uma preocupação crescente em relação ao impacto ambiental da mineração. Além disso, o poder de influência das figuras públicas, como Elon Musk, adiciona uma camada adicional de complexidade a esse mercado em constante evolução.
 
 
 ## Tecnologias Utilizadas
