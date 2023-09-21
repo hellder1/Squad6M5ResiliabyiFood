@@ -33,7 +33,7 @@ Nossa análise exploratória visa fornecer uma visão abrangente das criptomoeda
 ## Instruções de uso
 
 Clonar o diretório:
-* Especificações de Documentação  no arquivo "????'
+* Especificações de Documentação  no arquivo "Documentacao_Projeto_Bad_Cripton'
 
 ## Funcionalidades
 Trabalho em grupo sobre criptomoedas, usando modelagem de banco de dados, SQL, Python, Pandas e Power BI
