@@ -1,9 +1,12 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=120&section=header" />
+
 <a target="_blank" href="https://colab.research.google.com/github/grandpa44997/Squad6M5ResiliabyiFood/blob/main/README.md">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 
-# **SQUAD 6 - MÓDULO 5 - Resilia by iFood**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=34&duration=4000&pause=900&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=SQUAD+6+-+M%C3%93DULO+5;RESILIA+BY+IFOOD;PROJETO%3A+BAD+CRIPTON)](https://git.io/typing-svg)
 ---
 ![Imgur](https://i.imgur.com/Mb7kt57.png)
 
@@ -67,7 +70,7 @@ Exporta em csv tb_final
 *   Limpar e tratar os dados;
 *   Utilizar e visualizar gráficos com o objetivo de obter alguns insights.
 
-## **Insights**
+## 💡 **Insights**
   #### <font color = bluelight>
   > A série histórica das criptomoedas revela um cenário de extrema volatilidade e valorização ao longo dos anos, com picos de alta em 2017, seguidos de quedas acentuadas em 2018 e 2019. No entanto, o grande destaque desse mercado nos últimos anos foi o aumento exponencial em 2020 e 2021.
 
@@ -82,12 +85,14 @@ Exporta em csv tb_final
 
 * ![Static Badge](https://img.shields.io/badge/%20-Google_Colab-black?style=plano&logo=Google%20Colab&logoColor=%23F9AB00&cacheSeconds=%203600)
 
-## **Pessoas Desenvolvedoras do Projeto**
-Esse projeto foi desenvolvido por:
+## 🧑🏽‍💻 **Pessoas Desenvolvedoras do Projeto**
+*Esse projeto foi desenvolvido por:*
 
-- Alice Campos 
-- Dani
-- Helder
+- **Alice Campos**
+- **Daniel Freitas**
+- **Helder Fernandes**
+
+![Imgur](squad6.png)
   
 ## **Contato**
 
