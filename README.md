@@ -6,7 +6,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=34&duration=4000&pause=900&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=SQUAD+6+-+M%C3%93DULO+5;RESILIA+BY+IFOOD;PROJETO%3A+BAD+CRIPTON)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=37&pause=1000&center=true&vCenter=true&width=435&lines=SQUAD+6+-+M%C3%93DULO+5;RESILIA+BY+IFOOD;PROJETO%3A+BAD+CRIPTON)](https://git.io/typing-svg)
 ---
 ![Imgur](https://i.imgur.com/Mb7kt57.png)
 
