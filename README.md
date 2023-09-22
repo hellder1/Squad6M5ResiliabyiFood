@@ -45,9 +45,10 @@ Modo de usar v.beta
 
 baixar arquivo zipado da série histórica https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory
 
-Mscolher 10 moedas das 23 da série historica do kaggle
+Escolher 10 moedas das 23 da série historica do kaggle.
 
-Esses 10 arquivos csv devem ser colocados na pasta de arquivos do pgadmin4 para serem unidos por lá
+Esses 10 arquivos csv devem ser colocados na pasta de arquivos do pgadmin para serem unidos por lá.
+
 * bitcoin
 * cardano
 * cosmos
@@ -83,7 +84,14 @@ Exporta em csv tb_final
 
 ## **Tecnologias Utilizadas**
 
-* ![Static Badge](https://img.shields.io/badge/%20-Google_Colab-black?style=plano&logo=Google%20Colab&logoColor=%23F9AB00&cacheSeconds=%203600)
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
 
 ## 🧑🏽‍💻 **Pessoas Desenvolvedoras do Projeto**
 *Esse projeto foi desenvolvido por:*
@@ -95,6 +103,7 @@ Exporta em csv tb_final
 ![Imgur](squad6.png)
   
 ## **Contato**
+
 
 | Alice      | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alicecalagecampos/)](https://www.linkedin.com/in/alicecalagecampos/) |
 
