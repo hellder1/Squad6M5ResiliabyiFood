@@ -107,7 +107,7 @@ Exporta em csv tb_final
 
 | Alice      | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alicecalagecampos/)](https://www.linkedin.com/in/alicecalagecampos/) |
 
-Consome esse arquivo no colab maravilhoso da alice [aqui](https://colab.research.google.com/drive/1W3xfH6nG56cggg4hbmPCxwBXlTymcYfc?usp=sharing)
+*Contemple esse arquivo no colab maravilhoso da Alice:* [AQUI](https://colab.research.google.com/drive/1W3xfH6nG56cggg4hbmPCxwBXlTymcYfc?usp=sharing)
 
 Esse colab vai gerar um arquivo para ser usado no Power BI.
 
